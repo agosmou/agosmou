@@ -2,6 +2,7 @@ Hi, My name is Alejandro Gomez
 ================================
 
 *  I'm based in Los Angeles, CA
+*  Let's collaborate!
 
 ### Skills
 
