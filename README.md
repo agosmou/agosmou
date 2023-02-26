@@ -1,4 +1,4 @@
-Hi, My name is Alejandro Gomez
+Hi, I'm Ale!
 ================================
 
 *  I'm based in Los Angeles, CA
