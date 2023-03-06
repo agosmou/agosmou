@@ -1,7 +1,7 @@
 Hi, I'm Ale!
 ================================
 
-*  I'm based in Los Angeles, CA
+
 *  Check out my portfolio at https://www.alegomez.com - Let's Collaborate!
 
 
