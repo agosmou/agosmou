@@ -2,7 +2,7 @@ Hi, I'm Ale!
 ================================
 
 
-*  Check out my portfolio at https://www.alegomez.com - Let's Collaborate!
+*  Let's Collaborate!
 
 
 ### Skills
