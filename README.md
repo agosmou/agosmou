@@ -1,15 +1,16 @@
-# Hello! 👋🏽 I'm Ale
+# 👋🏽 Hello, I'm Ale!
 
-<img src="./hello-ale.svg" class="home-img" alt="">
+<p align="center">
+  <img src="./hello-ale.svg" class="home-img" alt="">
+</p>
 
 <a href="https://www.instagram.com/alejandro.fla">
-  <img align="left" alt="Ale's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Ale's Instagram" width="30px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://linkedin.com/in/alegomez14">
-  <img align="left" alt="Ale's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Ale's LinkedIn" width="30px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-
-**Let's Connect!** 🚀
+<br>
 
 ***
 
