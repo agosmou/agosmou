@@ -14,7 +14,7 @@
 
 ***
 
-### 🚧 Some of the stuff I've fixed and/or built recently 👷🏽‍♂️
+### 🚧 Some of the stuff I've worked on recently 👷🏽‍♂️
 
 - [feat: add module to support Microsoft SQL Server](https://github.com/testcontainers/testcontainers-go/pull/1969) on [testcontainers-go](https://github.com/testcontainers/testcontainers-go)
 - [Adds end-to-end feature for archiving and deleting user accounts](https://github.com/hackforla/tdm-calculator/pull/1449) on [TDM-Calculator](https://github.com/hackforla/tdm-calculator)
