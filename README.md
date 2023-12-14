@@ -4,14 +4,6 @@
   <img src="./hello-ale.svg" class="home-img" alt="">
 </p>
 
-<a href="https://www.instagram.com/alejandro.fla">
-  <img align="left" alt="Ale's Instagram" width="30px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://linkedin.com/in/alegomez14">
-  <img align="left" alt="Ale's LinkedIn" width="30px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<br>
-
 ***
 
 ### 🚧 Some of the stuff I've worked on recently 👷🏽‍♂️
