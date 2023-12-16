@@ -22,5 +22,6 @@
 
 ### 📝 Some of the bits of knowledge I shared 🔊
 
+- [SQL - Self-Join Intro with PostgreSQL: The Inner Join](https://dev.to/agosmou/sql-self-join-intro-with-postgresql-the-inner-join-5gkk)
 - [Our First Python Computer Vision Program with OpenCV](https://medium.com/@agosmou/our-first-python-computer-vision-program-with-opencv-e40318806c2e)
 - [Slide Deck for Computer Vision Lightning Talk](https://docs.google.com/presentation/d/1ZOM-_JQvNJp6tUBQuiQybKpO816kqQDCH4YLEQPVqys/edit?usp=drive_link)
